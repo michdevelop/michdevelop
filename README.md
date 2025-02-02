@@ -24,7 +24,7 @@ Soy un desarrollador apasionado con experiencia en la creación de aplicaciones 
 - **Linux**
 
 ## Proyectos destacados 🚀
-**Dezapost**: Creé una API con Laravel y MySQL para gestionar usuarios en una base de datos local usando JWT para uso de tokens de autenticación.
+**Dexapost**: Creé una API con Laravel y MySQL para gestionar usuarios en una base de datos local usando JWT para uso de tokens de autenticación.
 
 ## Contáctame 📬
 
