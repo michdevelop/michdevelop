@@ -1,6 +1,6 @@
 # Hola, soy Michelle Romualdo 👋
 
-Soy un programador con experiencia en la creación de aplicaciones web y soluciones a medida, con experiencia en tecnologías de backend y frontend. Me encanta aprender nuevas herramientas y frameworks para mejorar la eficiencia de mis proyectos.
+Soy un programador con experiencia en la creación de aplicaciones web y soluciones a medida, con experiencia en tecnologías de backend y frontend.
 
 ## Tecnologías y Herramientas 🛠
 
@@ -26,7 +26,7 @@ Soy un programador con experiencia en la creación de aplicaciones web y solucio
 - **Linux** 🐧
 
 ## Proyectos destacados 🚀
-**Dexapost** 💊: Creé una API con Laravel y MySQL para gestionar usuarios en una base de datos local usando JWT para uso de tokens de autenticación.
+**Dexapost** 💊: API con Laravel y MySQL para gestionar usuarios en una base de datos local usando JWT para uso de tokens de autenticación.
 
 ## Contáctame 📬
 
